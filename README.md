@@ -74,11 +74,3 @@ The system will analyse uploaded picture and give output with classification pri
 
  
 
-<!-- Acknowledgements -->
-## Acknowledgements
-* [Deploy flask app ](https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/)
-* [Flask App tutorial](https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3)
-* [Training model with Tensorflow](https://towardsdatascience.com/build-your-first-machine-learning-model-using-tensorflow-d61b9b2b7d5e)
-* [deploy model using Keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
-
-
