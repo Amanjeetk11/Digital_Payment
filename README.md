@@ -44,7 +44,7 @@ Printed text · Handwritten text · OCR · Shape-based features · GUI
 |   Enrollment No.  |   Name   | Github ID |
 |   --------------  |   ----   | -------- |
 |    IIB2019006  |   Amanjeet Kumar |  [Amanjeetk11 ](https://github.com/Amanjeetk11) |
-|    IIB2019031  |   Debasish Das |  [Amanjeetk11 ](https://github.com/Amanjeetk11) |
+|    IIB2019031  |   Debasish Das |  [Unstable108](https://github.com/Unstable108) |
 
 
 
