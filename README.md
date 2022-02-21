@@ -12,7 +12,6 @@ Group No-
     </li>
     <li><a href="#team-members">Team Members</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li>
     <li><a href="#How-to-use">How to use</a></li>
     <li>
       <a href="#model-predictions">Model Predictions</a>
