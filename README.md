@@ -19,8 +19,7 @@ Group No-
         <li><a href="#MIXED INPUT">MIXED INPUT</a></li>
         <li><a href="#CLASSIFIED OUTPUT">CLASSIFIED OUTPUT</a></li>
       </ul>
-    </li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+   
   </ol>
 </details>
 
